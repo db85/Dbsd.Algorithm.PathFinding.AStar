@@ -136,3 +136,4 @@ _NCrunch*
 .vs
 .vscode
 *.blend1
+*.nupkg

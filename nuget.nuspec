@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <id>Dbsd.Algorithm.PathFinding.AStar</id>
+        <version>1.0.0.0</version>
+        <title>AStar (A*) search algorithm</title>
+        <description>An implementation of the AStar (A*) search algorithm</description>
+        <authors>Daniel Bauer</authors>
+        <license type="expression">MIT</license>
+        <projectUrl>https://github.com/db85/Dbsd.Algorithm.PathFinding.AStar</projectUrl>
+        <repository type="git" url="https://github.com/db85/Dbsd.Algorithm.PathFinding.AStar.git" branch="main" commit="7ad8fe5890adeafecabdc779e39c909daaa79533" />
+    </metadata>
+    <files>
+        <file src="Dbsd.Algorithm.PathFinding.AStar\bin\Release\net8.0\*.dll" target="lib\net8.0" />
+    </files>
+</package>
